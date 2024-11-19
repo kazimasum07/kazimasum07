@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **swift**
-
-- 🔭 I’m currently working on [Task Manager](https://github.com/kazimasum07/Flutter-Task_Manager)
+- 🔭 I’m currently working on [Task Manager](https://github.com/kazimasum07/task-master)
 
 - 💬 Ask me about **Flutter, Dart**
 
